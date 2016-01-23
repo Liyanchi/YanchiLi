@@ -31,7 +31,7 @@ YanchiLiAssignment2$s2i<-summary(male$weight)
 ###3##
 vec<-c(letters,LETTERS)
 YanchiLiAssignment2$s3a<-paste(vec[c(1:26*2)])
-YanchiLiAssignment2$s3b<-paste(vec[c(36,1,14)])
+YanchiLiAssignment2$s3b<-paste(vec[c(51,1,14)])
 arr<-array(c(letters,LETTERS),dim=c(3,3,3))
 View(arr)
 arr1<-arr[,,1]
